@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: help-client-ui
+  profiles:
+    active: local
+    include: server
